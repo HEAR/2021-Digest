@@ -1,5 +1,4 @@
-# Hic et nunc
-
+# Digest
 Communication graphique, 2021.
 
-Pour la biennale Exemplaires.
+For the digest project.
